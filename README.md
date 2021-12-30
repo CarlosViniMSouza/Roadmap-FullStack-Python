@@ -99,6 +99,26 @@
 
 ### FastAPI (different from Flask and Django), was made thinking about making API's easier to build - but it is highly recommended in the technology market, so I think it's good to take some time to study it!
 
+## [Database Trail](https://www.oracle.com/database/what-is-database/)
+
+- DataBases (Type: Structured)
+
+  ° [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
+
+  ° [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/)
+
+  ° [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/about.html)
+
+- DataBases (Type: No Structured - NoSQL)
+
+    ° [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+
+    ° [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)
+
+    ° [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
+
+### Database is an essential part for developing all kinds of applications. Here you can choose any of the 6 alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
+
 ## The repositories that helped me build this roadmap:
 
 1 - [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
