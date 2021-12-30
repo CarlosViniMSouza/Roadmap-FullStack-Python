@@ -1,8 +1,6 @@
-![logo_repository](https://www.thebusinessguardians.com/wp-content/uploads/2021/04/New-Project-2021-04-27T025532.634.jpg)
+![logo_python_frameworks](https://dreamclass.co.in/wp-content/uploads/2020/10/python-frameworks-250919.png)
 
 # Welcome to my 🌟 Roadmap Full Stack Python 🌟 (which is also my number 100 repository on GitHub - at the end of 2021)
-
-![logo_python_frameworks](https://dreamclass.co.in/wp-content/uploads/2020/10/python-frameworks-250919.png)
 
 ## If you're reading this before 01/01/2022, I want to wish you a Happy New Year and lots of health! 🙏
 
@@ -66,6 +64,14 @@
     ° [![awesome django](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/wsvincent/awesome-django) Awesome Django
 
     ° [![awesome django rest](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/nioperas06/awesome-django-rest-framework) Awesome Django Rest
+
+  - Flask trail
+
+    ° []()
+
+    ° []()
+
+    ° []()
 
 ## The repositories that helped me build this roadmap:
 

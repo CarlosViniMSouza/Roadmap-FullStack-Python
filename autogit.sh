@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Django trail (Awesomes Repositories) -> i forget (again)"
+git commit -m "Principal Image -> alt"
 git push
 git status
 clear
