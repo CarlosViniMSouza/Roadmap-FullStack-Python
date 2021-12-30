@@ -75,11 +75,18 @@
 
   - Flask trail
 
-    ° []()
+    ° [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
-    ° []()
+    ° [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flask-restful/flask-restful) GitHub of Flask RESTful
 
-    ° []()
+    <a href="https://github.com/humiaozuzu/awesome-flask">
+      <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <br> Awesome Flask </br>
+    </a>
+
+    ° [Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
+
+### Flask is generally the second most used python framework on the web (second only to Django); for a few reasons: in addition to being simpler than its competitor (Django), it provides more freedom and flexibility to the developer. Very suitable for small building web applications.
 
 ## The repositories that helped me build this roadmap:
 

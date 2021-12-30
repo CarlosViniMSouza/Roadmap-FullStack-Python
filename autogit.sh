@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Erros in Django trail -> fixed"
+git commit -m "Flask trail -> add & finished"
 git push
 git status
 clear
