@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Front-End Trail -> started"
+git commit -m "CSS Frameworks -> add"
 git push
 git status
 clear
