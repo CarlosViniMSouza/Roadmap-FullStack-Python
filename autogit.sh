@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Logo of Awesome -> alt (num.3)"
+git commit -m "Text of Awesome -> alt (num.1)"
 git push
 git status
 clear

@@ -63,12 +63,12 @@
 
     <a href="https://github.com/wsvincent/awesome-django">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <br> Awesome Django </br>
     </a>
-
-    ° [![awesome django](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/wsvincent/awesome-django) Awesome Django
 
     <a href="https://github.com/nioperas06/awesome-django-rest-framework">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <br> Awesome Django Rest Framework </br>
     </a>
 
     ° [![awesome django rest](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/nioperas06/awesome-django-rest-framework) Awesome Django Rest
