@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Frameworks JS -> add (i forget 😅)"
+git commit -m "Django trail -> add"
 git push
 git status
 clear
