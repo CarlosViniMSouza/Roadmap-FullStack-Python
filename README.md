@@ -34,6 +34,14 @@
 
     ° [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
+  - Complete Frameworks Front-End:
+
+    ° [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/how-it-works/)
+
+    ° [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+[Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+
 ## The repositories that helped me build this roadmap:
 
 1 - [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
