@@ -40,7 +40,18 @@
 
     ° [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-[Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+  - Frameworks JS:
+
+    ° [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/docs/getting-started.html)
+
+    ° [![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angular.io/docs)
+    
+    ° [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/v2/guide/)
+
+### OBS.: My advice is, you should master the basics, and select 1 framework from each sub-topic to specialize in (remember: the focus here is Python for the Web, don't worry so much about the Front-End issue, the unless you want to be a Full Stack developer with an emphasis on Front End).
+
+
+## [Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 
 ## The repositories that helped me build this roadmap:
 
