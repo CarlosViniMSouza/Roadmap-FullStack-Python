@@ -119,6 +119,18 @@
 
 ### Database is an essential part for developing all kinds of applications. Here you can choose any of the 6 alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
 
+## [Infrastructure](https://www.ibm.com/topics/infrastructure)
+
+  - CI/CD trail
+
+    ° [![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/2.0/)
+
+    ° [![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/index.html)
+
+    ° [![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/pt/actions)
+
+    ° [![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://docs.travis-ci.com/user/tutorial/?utm_source=help-page&utm_medium=travisweb)
+
 ## The repositories that helped me build this roadmap:
 
 1 - [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
