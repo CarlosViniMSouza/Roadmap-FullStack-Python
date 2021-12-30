@@ -8,7 +8,17 @@
 
 ## Anyway, enough of the presentations, and let's get down to business!
 
+# Shortcuts
 
+## [Front-End Development Trail](https://developer.mozilla.org/en-US/docs/Web)
+
+  - The base of the trail:
+
+    ° [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+    ° [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+    ° [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## The repositories that helped me build this roadmap:
 
