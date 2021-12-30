@@ -149,6 +149,16 @@
 
     ° [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
 
-## The repositories that helped me build this roadmap:
+  - Version Control trail
 
-1 - [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
+    ° [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
+
+    ° [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en)
+
+    ° [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/get-started/)
+
+    ° [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/guides)
+
+### OBS.: Git is a desktop tool we use to manage project versions on our local machine. the other tools are cloud services that allow the developer to manage projects and changes in a virtual environment
+
+### The repositories that helped me build this roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
