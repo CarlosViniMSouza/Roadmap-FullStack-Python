@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Cloud Services trail -> add"
+git commit -m "Hosting(Deploy) trail -> add"
 git push
 git status
 clear
