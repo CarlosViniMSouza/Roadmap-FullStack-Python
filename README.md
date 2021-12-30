@@ -59,8 +59,6 @@
 
     ° [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/#quickstart)
 
-    ° [Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
-
     <a href="https://github.com/wsvincent/awesome-django">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
       <br> Awesome Django </br>
@@ -70,6 +68,8 @@
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
       <br> Awesome Django Rest Framework </br>
     </a>
+
+    ° [Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
 
 ### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉
 
@@ -130,6 +130,14 @@
     ° [![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/pt/actions)
 
     ° [![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://docs.travis-ci.com/user/tutorial/?utm_source=help-page&utm_medium=travisweb)
+
+  - Cloud Services trail
+
+    ° [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
+
+    ° [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/get-started/#works)
+
+    ° [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://cloud.google.com/gcp/getting-started)
 
 ## The repositories that helped me build this roadmap:
 
