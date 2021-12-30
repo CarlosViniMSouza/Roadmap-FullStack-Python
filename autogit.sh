@@ -1,5 +1,5 @@
 git add -A
-git commit -m "CSS Frameworks -> add"
+git commit -m "JS Packages Manager -> add"
 git push
 git status
 clear

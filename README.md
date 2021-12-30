@@ -28,6 +28,12 @@
     
     ° [![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/features/)
 
+  - JS Packages Manager:
+
+    ° [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
+
+    ° [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
+
 ## The repositories that helped me build this roadmap:
 
 1 - [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
