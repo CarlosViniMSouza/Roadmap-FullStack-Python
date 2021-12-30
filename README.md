@@ -62,13 +62,13 @@
     ° [Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
 
     <a href="https://github.com/wsvincent/awesome-django">
-      <img width="40%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <img width="15%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
     </a>
 
     ° [![awesome django](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/wsvincent/awesome-django) Awesome Django
 
     <a href="https://github.com/nioperas06/awesome-django-rest-framework">
-      <img width="40%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <img width="15%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
     </a>
 
     ° [![awesome django rest](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/nioperas06/awesome-django-rest-framework) Awesome Django Rest
