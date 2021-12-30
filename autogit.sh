@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Flask trail -> add & finished"
+git commit -m "FastAPI trail -> add"
 git push
 git status
 clear
