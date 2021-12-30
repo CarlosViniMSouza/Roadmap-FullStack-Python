@@ -71,7 +71,7 @@
       <br> Awesome Django Rest Framework </br>
     </a>
 
-    ° [![awesome django rest](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)](https://github.com/nioperas06/awesome-django-rest-framework) Awesome Django Rest
+### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉
 
   - Flask trail
 
