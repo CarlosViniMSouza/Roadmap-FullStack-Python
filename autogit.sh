@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Text of Awesome -> alt (num.1)"
+git commit -m "Big image of Awesome -> deleted"
 git push
 git status
 clear
