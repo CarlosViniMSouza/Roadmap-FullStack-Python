@@ -61,8 +61,8 @@
 
     <a href="https://github.com/wsvincent/awesome-django">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
-      <br> Awesome Django </br>
     </a>
+    <br> Awesome Django </br>
 
     <a href="https://github.com/nioperas06/awesome-django-rest-framework">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
