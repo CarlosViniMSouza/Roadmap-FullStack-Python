@@ -85,7 +85,7 @@
     [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)
     [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
 
-### Database is an essential part for developing all kinds of applications. Here you can choose any of the 6 alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
+### Database is an essential part for developing all kinds of applications. Here you can choose any of the alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
 
 ## 🔐&nbsp; [Infrastructure Trail](https://www.ibm.com/topics/infrastructure)
 

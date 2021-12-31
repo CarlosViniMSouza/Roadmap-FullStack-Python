@@ -86,9 +86,9 @@
 
 ### FastAPI (diferente de Flask e Django), foi feito pensando em tornar API's mais fáceis de construir - mas é altamente recomendado no mercado de tecnologia, então acho bom dedicar um tempo para estudá-lo!
 
-## 🛢&nbsp; [Database Trail](https://www.oracle.com/database/what-is-database/)
+## 🛢&nbsp; [Trilha Banco de Dados](https://www.oracle.com/database/what-is-database/)
 
-  - 🧮&nbsp; DataBases (Type: Structured)
+  - 🧮&nbsp; Banco de Dados (Tipo: Estruturado)
 
     ° [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
@@ -98,7 +98,7 @@
 
     ° [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/about.html)
 
-  - 🗂&nbsp; DataBases (Type: No Structured - NoSQL)
+  - 🗂&nbsp; Banco de Dados (Tipo: Não Estruturado - NoSQL)
 
       ° [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
@@ -106,7 +106,7 @@
 
       ° [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
 
-### Database is an essential part for developing all kinds of applications. Here you can choose any of the 6 alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
+###  Banco de dados é uma parte essencial para o desenvolvimento de todos os tipos de aplicativos. Aqui você pode escolher qualquer uma das alternativas apresentadas, não terá um impacto tão grande em sua capacidade de codificação (mas esteja ciente do que o mercado pode exigir).
 
 ## 🔐&nbsp; [Infrastructure Trail](https://www.ibm.com/topics/infrastructure)
 
