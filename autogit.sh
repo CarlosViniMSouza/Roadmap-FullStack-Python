@@ -1,5 +1,5 @@
 git add -A
-git commit -m "A little change in Awesome Django"
+git commit -m "Add more stickers"
 git push
 git status
 clear

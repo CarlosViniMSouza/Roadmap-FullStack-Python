@@ -48,10 +48,9 @@
 
 ### OBS.: My advice is, you should master the basics, and select 1 framework from each sub-topic to specialize in (remember: the focus here is Python for the Web, don't worry so much about the Front-End issue, the unless you want to be a Full Stack developer with an emphasis on Front End).
 
-
 ## 🧠&nbsp; [Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 
-  - Django trail
+  - 🌎&nbsp; Django trail
 
     ° [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
@@ -61,8 +60,8 @@
 
     <a href="https://github.com/wsvincent/awesome-django">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <br> Awesome Django </br>
     </a>
-    <br> Awesome Django </br>
 
     <a href="https://github.com/nioperas06/awesome-django-rest-framework">
       <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
@@ -73,7 +72,7 @@
 
 ### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉&nbsp;
 
-  - Flask trail
+  - 🌶&nbsp; Flask trail
 
     ° [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
@@ -86,7 +85,7 @@
 
 ### Flask is generally the second most used python framework on the web (second only to Django); for a few reasons: in addition to being simpler than its competitor (Django), it provides more freedom and flexibility to the developer. Very suitable for small building web applications.
 
-  - FastAPI trail:
+  - ⚡️&nbsp; FastAPI trail:
 
     ° [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
@@ -101,7 +100,9 @@
 
 ## 🛢&nbsp; [Database Trail](https://www.oracle.com/database/what-is-database/)
 
-  - DataBases (Type: Structured)
+  - 🧮&nbsp; DataBases (Type: Structured)
+
+    ° [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
     ° [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
 
@@ -109,7 +110,7 @@
 
     ° [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/about.html)
 
-  - DataBases (Type: No Structured - NoSQL)
+  - 🗂&nbsp; DataBases (Type: No Structured - NoSQL)
 
       ° [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
@@ -121,7 +122,7 @@
 
 ## 🔐&nbsp; [Infrastructure Trail](https://www.ibm.com/topics/infrastructure)
 
-  - CI/CD trail
+  - 📜&nbsp; CI/CD trail
 
     ° [![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/2.0/)
 
@@ -131,7 +132,7 @@
 
     ° [![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://docs.travis-ci.com/user/tutorial/?utm_source=help-page&utm_medium=travisweb)
 
-  - Cloud Services trail
+  - ☁️&nbsp; Cloud Services trail
 
     ° [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
 
@@ -139,7 +140,7 @@
 
     ° [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/gcp/getting-started)
 
-  - Hosting(Deploy) trail
+  - 🏢&nbsp; Hosting(Deploy) trail
 
     ° [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/docs)
 
@@ -149,7 +150,7 @@
 
     ° [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
 
-  - Version Control trail
+  - 📝&nbsp; Version Control trail
 
     ° [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 
@@ -165,7 +166,7 @@
 
 ### At the moment I am still working on the base. After much research, testing and experimentation, I chose these technologies to compose my Stack:
 
-On the Front End:
+On the Front-End:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
