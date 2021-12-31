@@ -159,4 +159,19 @@ On the Infrastructure:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## [Artificial Intelligence Tail](https://www.oracle.com/artificial-intelligence/what-is-ai/)
+
+  - Data Analysis & Data Science tail:
+
+    ° [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/absolute_beginners.html)
+    [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/index.html)
+    [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
+
+    [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/learn)
+    [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/getting_started/)
+
+### So dear reader, I need to inform you of the following: With the advent and advances of Artificial Intelligence, we developers need to be aware of this. Even more so now with the integration between Web and Neural Networks increasingly intertwined.
+
+### And beyond that, Python is the most popular and recommended when it comes to Data Analysis and Science! So, be smart (it may take time to build your stack, but knowledge in the data area will benefit you in the long run).
+
 ### The repositories that helped me build this roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)

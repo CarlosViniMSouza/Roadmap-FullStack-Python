@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Frameworks JS: NestJS | NextJS | NuxtJS -> adds"
+git commit -m "Artificial Intelligence Tail & Data Analysis & Data Science tail -> adds"
 git push
 git status
 clear
