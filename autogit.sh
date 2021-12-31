@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Containers Management trail -> add"
+git commit -m "Folder: image -> add"
 git push
 git status
 clear
