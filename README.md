@@ -38,6 +38,10 @@
     [![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angular.io/docs)
     [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/v2/guide/)
 
+    ° [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
+    [![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs/getting-started)
+    [![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/docs/get-started/installation)
+
 ### OBS.: My advice is, you should master the basics, and select 1 framework from each sub-topic to specialize in (remember: the focus here is Python for the Web, don't worry so much about the Front-End issue, the unless you want to be a Full Stack developer with an emphasis on Front End).
 
 ## 🧠&nbsp; [Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
