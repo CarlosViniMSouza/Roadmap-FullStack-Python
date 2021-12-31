@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Image Awesome.png -> insert | alt (num.1)"
+git commit -m "Awesome -> using 🕶 how representation"
 git push
 git status
 clear

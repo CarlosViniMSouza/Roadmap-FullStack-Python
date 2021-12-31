@@ -58,17 +58,11 @@
 
     ° [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/#quickstart)
 
-    <a href="https://github.com/wsvincent/awesome-django">
-      <img width="10%" src="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python/blob/master/image/awesome.png"/>
-      <br> Awesome Django </br>
-    </a>
+    ° [🕶 Awesome Django](https://github.com/wsvincent/awesome-django)
 
-    <a href="https://github.com/nioperas06/awesome-django-rest-framework">
-      <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
-      <br> Awesome Django Rest Framework </br>
-    </a>
+    ° [🕶 Awesome Django Rest Framework](https://github.com/nioperas06/awesome-django-rest-framework)
 
-    ° [Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
+    ° [🖥 Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
 
 ### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉&nbsp;
 
@@ -76,12 +70,9 @@
 
     ° [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
-    <a href="https://github.com/humiaozuzu/awesome-flask">
-      <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
-      <br> Awesome Flask </br>
-    </a>
+    ° [🕶 Awesome Django](https://github.com/humiaozuzu/awesome-flask)
 
-    ° [Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
+    ° [🌶🔏 Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
 
 ### Flask is generally the second most used python framework on the web (second only to Django); for a few reasons: in addition to being simpler than its competitor (Django), it provides more freedom and flexibility to the developer. Very suitable for small building web applications.
 
@@ -91,10 +82,7 @@
 
     ° [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiangolo/fastapi)
 
-    <a href="https://github.com/mjhea0/awesome-fastapi">
-      <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
-      <br> Awesome FastAPI </br>
-    </a>
+    [🕶 Awesome Django](https://github.com/mjhea0/awesome-fastapi)
 
 ### FastAPI (different from Flask and Django), was made thinking about making API's easier to build - but it is highly recommended in the technology market, so I think it's good to take some time to study it!
 
