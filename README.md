@@ -160,6 +160,12 @@
 
     ° [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/guides)
 
+  - 🚛&nbsp; Containers Management trail
+
+    ° [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/get-docker/)
+
+    ° [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
+
 ### OBS.: Git is a desktop tool we use to manage project versions on our local machine. the other tools are cloud services that allow the developer to manage projects and changes in a virtual environment
 
 ## 👨‍💻&nbsp; My Stack
@@ -192,5 +198,6 @@ On the Infrastructure:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### The repositories that helped me build this roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)

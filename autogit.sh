@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Add more stickers"
+git commit -m "Containers Management trail -> add"
 git push
 git status
 clear
