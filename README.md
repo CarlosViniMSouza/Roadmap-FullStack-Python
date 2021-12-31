@@ -59,7 +59,7 @@
     ° [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/#quickstart)
 
     <a href="https://github.com/wsvincent/awesome-django">
-      <img width="10%" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg"/>
+      <img width="10%" src="https://github.com/CarlosViniMSouza/Roadmap-FullStack-Python/blob/master/image/awesome.png"/>
       <br> Awesome Django </br>
     </a>
 
