@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Awesome -> using 🕶 how representation"
+git commit -m "README_PT-BR.md -> add"
 git push
 git status
 clear
