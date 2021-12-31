@@ -76,7 +76,7 @@
 
 ### Flask é geralmente o segundo framework Python mais usado na web (perdendo apenas para Django); por alguns motivos: além de ser mais simples que seu concorrente (Django), oferece mais liberdade e flexibilidade ao desenvolvedor. Muito adequado para aplicativos da web de pequeno porte.
 
-  - ⚡️&nbsp; FastAPI trail:
+  - ⚡️&nbsp; trilha FastAPI:
 
     ° [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
@@ -120,7 +120,7 @@
 
     ° [![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://docs.travis-ci.com/user/tutorial/?utm_source=help-page&utm_medium=travisweb)
 
-  - ☁️&nbsp; Trilha Serviços em Nuvem
+  - ☁️&nbsp; trilha Serviços em Nuvem
 
     ° [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
 
@@ -156,29 +156,29 @@
 
 ### OBS.: Git é uma ferramenta de desktop que usamos para gerenciar versões de projetos em nossa máquina local. as outras ferramentas são serviços em nuvem que permitem ao desenvolvedor gerenciar projetos e mudanças em um ambiente virtual.
 
-## 👨‍💻&nbsp; My Stack
+## 👨‍💻&nbsp; Minha Stack
 
-### At the moment I am still working on the base. After much research, testing and experimentation, I chose these technologies to compose my Stack:
+### No momento ainda estou trabalhando na base. Depois de muita pesquisa, teste e experimentação, escolhi essas tecnologias para compor minha Stack:
 
-On the Front-End:
+No Front-End:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-On the Back-End
+No Back-End:
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-On the DataBases:
+Nos Bancos de Dados:
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-On the Infrastructure:
+Na Infraestrutura:
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
@@ -188,4 +188,4 @@ On the Infrastructure:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### The repositories that helped me build this roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
+### O repositório que me ajudou na construção desse roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
