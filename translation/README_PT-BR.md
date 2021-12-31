@@ -66,7 +66,7 @@
 
 ### Ok, pode parecer pouco para estudar, mas o ecossistema do Django é vasto (pode levar meses para desenvolver uma boa base e gerar alguns pequenos projetos). Mas se você for paciente, esse tempo gasto valerá a pena! ✌️😉&nbsp;
 
-  - 🌶&nbsp; Flask trail
+  - 🌶&nbsp; trilha Flask
 
     ° [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 
@@ -74,7 +74,7 @@
 
     ° [🌶🔏 Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
 
-### Flask is generally the second most used python framework on the web (second only to Django); for a few reasons: in addition to being simpler than its competitor (Django), it provides more freedom and flexibility to the developer. Very suitable for small building web applications.
+### Flask é geralmente o segundo framework Python mais usado na web (perdendo apenas para Django); por alguns motivos: além de ser mais simples que seu concorrente (Django), oferece mais liberdade e flexibilidade ao desenvolvedor. Muito adequado para aplicativos da web de pequeno porte.
 
   - ⚡️&nbsp; FastAPI trail:
 
@@ -84,7 +84,7 @@
 
     [🕶 Awesome Django](https://github.com/mjhea0/awesome-fastapi)
 
-### FastAPI (different from Flask and Django), was made thinking about making API's easier to build - but it is highly recommended in the technology market, so I think it's good to take some time to study it!
+### FastAPI (diferente de Flask e Django), foi feito pensando em tornar API's mais fáceis de construir - mas é altamente recomendado no mercado de tecnologia, então acho bom dedicar um tempo para estudá-lo!
 
 ## 🛢&nbsp; [Database Trail](https://www.oracle.com/database/what-is-database/)
 
