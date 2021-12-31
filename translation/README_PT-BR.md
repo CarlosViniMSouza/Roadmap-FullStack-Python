@@ -127,6 +127,21 @@
 
 ### OBS.: Git é uma ferramenta de desktop que usamos para gerenciar versões de projetos em nossa máquina local. as outras ferramentas são serviços em nuvem que permitem ao desenvolvedor gerenciar projetos e mudanças em um ambiente virtual.
 
+## [Trilha Inteligência Artificial](https://www.oracle.com/artificial-intelligence/what-is-ai/)
+
+  - trilha Análise de Dados & Ciência de Dados:
+
+    ° [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/absolute_beginners.html)
+    [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/index.html)
+    [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
+
+    [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/learn)
+    [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/getting_started/)
+
+### Então caro leitor, preciso informa-lo do seguinte: Com o advento e avanços da Inteligência Artificial, nós desenvolvedores precisamos estar antenados quanto a isso. Ainda mais agora com a integração entre Web e Redes Neurais cada vez mais entrelaçados.
+
+### E além disso, o Python é o mais querido e indicado quando o assunto é Análise e Ciência dos dados! Então, fique esperto (pode demorar para desenvolver sua stack, mas o conhecimento na área de dados vai te beneficiar no longo prazo).
+
 ## 👨‍💻&nbsp; Minha Stack
 
 ### No momento ainda estou trabalhando na base. Depois de muita pesquisa, teste e experimentação, escolhi essas tecnologias para compor minha Stack:
@@ -159,19 +174,10 @@ Na Infraestrutura:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## [Trilha Inteligência Artificial](https://www.oracle.com/artificial-intelligence/what-is-ai/)
+Na Análise/Ciência de Dados:
 
-  - trilha Análise de Dados & Ciência de Dados:
-
-    ° [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/absolute_beginners.html)
-    [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/index.html)
-    [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://dash.plotly.com/)
-
-    [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/learn)
-    [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/getting_started/)
-
-### Então caro leitor, preciso informa-lo do seguinte: Com o advento e avanços da Inteligência Artificial, nós desenvolvedores precisamos estar antenados quanto a isso. Ainda mais agora com a integração entre Web e Redes Neurais cada vez mais entrelaçados.
-
-### E além disso, o Python é o mais querido e indicado quando o assunto é Análise e Ciência dos dados! Então, fique esperto (pode demorar para desenvolver sua stack, mas o conhecimento na área de dados vai te beneficiar no longo prazo). 
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/absolute_beginners.html)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/index.html)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/getting_started/)
 
 ### O repositório que me ajudou na construção desse roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
