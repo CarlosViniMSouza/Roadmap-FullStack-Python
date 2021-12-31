@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Version Control trail -> add"
+git commit -m "My Stack -> add"
 git push
 git status
 clear

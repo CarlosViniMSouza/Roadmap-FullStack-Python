@@ -1,14 +1,14 @@
 ![logo_python_frameworks](https://dreamclass.co.in/wp-content/uploads/2020/10/python-frameworks-250919.png)
 
-# Welcome to my 🌟 Roadmap Full Stack Python 🌟 (which is also my number 100 repository on GitHub - at the end of 2021)
+# Welcome to my 🌟&nbsp; Roadmap Full Stack Python 🌟&nbsp; (which is also my number 100 repository on GitHub - at the end of 2021)
 
-## If you're reading this before 01/01/2022, I want to wish you a Happy New Year and lots of health! 🙏
+## If you're reading this before 01/01/2022, I want to wish you a Happy New Year and lots of health! 🙏&nbsp;
 
 ## Anyway, enough of the presentations, and let's get down to business!
 
 # Shortcuts
 
-## [Front-End Development Trail](https://developer.mozilla.org/en-US/docs/Web)
+## 🧑‍🎨&nbsp; [Front-End Development Trail](https://developer.mozilla.org/en-US/docs/Web)
 
   - The base of the trail:
 
@@ -49,7 +49,7 @@
 ### OBS.: My advice is, you should master the basics, and select 1 framework from each sub-topic to specialize in (remember: the focus here is Python for the Web, don't worry so much about the Front-End issue, the unless you want to be a Full Stack developer with an emphasis on Front End).
 
 
-## [Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+## 🧠&nbsp; [Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 
   - Django trail
 
@@ -71,7 +71,7 @@
 
     ° [Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
 
-### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉
+### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉&nbsp;
 
   - Flask trail
 
@@ -99,27 +99,27 @@
 
 ### FastAPI (different from Flask and Django), was made thinking about making API's easier to build - but it is highly recommended in the technology market, so I think it's good to take some time to study it!
 
-## [Database Trail](https://www.oracle.com/database/what-is-database/)
+## 🛢&nbsp; [Database Trail](https://www.oracle.com/database/what-is-database/)
 
-- DataBases (Type: Structured)
+  - DataBases (Type: Structured)
 
-  ° [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
+    ° [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/mysql-shell/8.0/en/)
 
-  ° [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/)
+    ° [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/current/)
 
-  ° [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/about.html)
+    ° [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/about.html)
 
-- DataBases (Type: No Structured - NoSQL)
+  - DataBases (Type: No Structured - NoSQL)
 
-    ° [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
+      ° [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
-    ° [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)
+      ° [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)
 
-    ° [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
+      ° [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
 
 ### Database is an essential part for developing all kinds of applications. Here you can choose any of the 6 alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
 
-## [Infrastructure](https://www.ibm.com/topics/infrastructure)
+## 🔐&nbsp; [Infrastructure Trail](https://www.ibm.com/topics/infrastructure)
 
   - CI/CD trail
 
@@ -127,7 +127,7 @@
 
     ° [![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/index.html)
 
-    ° [![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/pt/actions)
+    ° [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/pt/actions)
 
     ° [![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://docs.travis-ci.com/user/tutorial/?utm_source=help-page&utm_medium=travisweb)
 
@@ -160,5 +160,36 @@
     ° [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/guides)
 
 ### OBS.: Git is a desktop tool we use to manage project versions on our local machine. the other tools are cloud services that allow the developer to manage projects and changes in a virtual environment
+
+## 👨‍💻&nbsp; My Stack
+
+### At the moment I am still working on the base. After much research, testing and experimentation, I chose these technologies to compose my Stack:
+
+On the Front End:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+On the Back-End
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+On the DataBases:
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+On the Infrastructure:
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### The repositories that helped me build this roadmap: [Markdown Badges of Roadmap](https://github.com/Ileriayo/markdown-badges)
