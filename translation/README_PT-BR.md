@@ -8,9 +8,9 @@
 
 # Atalhos
 
-## 🧑‍🎨&nbsp; [Front-End Development Trail](https://developer.mozilla.org/en-US/docs/Web)
+## 🧑‍🎨&nbsp; [Trilha Front-End Development](https://developer.mozilla.org/en-US/docs/Web)
 
-  - The base of the trail:
+  - A base da trilha:
 
     ° [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -18,7 +18,7 @@
 
     ° [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  - Popular CSS Frameworks:
+  - Frameworks CSS Populares:
 
     ° [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs/installation)
 
@@ -26,13 +26,13 @@
     
     ° [![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)](https://lesscss.org/features/)
 
-  - JS Packages Manager:
+  - Gerenciadores de Pacote JS:
 
     ° [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://docs.npmjs.com/)
 
     ° [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
-  - Complete Frameworks Front-End:
+  - Frameworks Front-End Completos:
 
     ° [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/how-it-works/)
 
@@ -46,11 +46,11 @@
 
     ° [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/v2/guide/)
 
-### OBS.: My advice is, you should master the basics, and select 1 framework from each sub-topic to specialize in (remember: the focus here is Python for the Web, don't worry so much about the Front-End issue, the unless you want to be a Full Stack developer with an emphasis on Front End).
+### OBS.: Meu conselho é que você deve dominar o básico e selecionar 1 framework de cada subtópico para se especializar (lembre-se: o foco aqui é Python para a Web, não se preocupe tanto com a questão do front-end, a menos que você deseja ser um desenvolvedor Full Stack com ênfase em Front End).
 
-## 🧠&nbsp; [Back-End Development Trail](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+## 🧠&nbsp; [Trilha Desenvolvimento Back-End](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 
-  - 🌎&nbsp; Django trail
+  - 🌎&nbsp; trilha Django
 
     ° [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 
@@ -64,7 +64,7 @@
 
     ° [🖥 Django CMS](https://docs.google.com/document/d/1f5eWyD_sxUSok436fSqDI0NHcpQ88CXQoDoQm9ZXb0s/edit)
 
-### Ok, It may seem like little to study, but Django's ecosystem is vast (it can take months to develop a good foundation and generate a few small projects). But if you are patient, this time spent will pay off! ✌️😉&nbsp;
+### Ok, pode parecer pouco para estudar, mas o ecossistema do Django é vasto (pode levar meses para desenvolver uma boa base e gerar alguns pequenos projetos). Mas se você for paciente, esse tempo gasto valerá a pena! ✌️😉&nbsp;
 
   - 🌶&nbsp; Flask trail
 
