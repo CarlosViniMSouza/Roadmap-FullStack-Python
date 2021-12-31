@@ -108,9 +108,9 @@
 
 ###  Banco de dados é uma parte essencial para o desenvolvimento de todos os tipos de aplicativos. Aqui você pode escolher qualquer uma das alternativas apresentadas, não terá um impacto tão grande em sua capacidade de codificação (mas esteja ciente do que o mercado pode exigir).
 
-## 🔐&nbsp; [Infrastructure Trail](https://www.ibm.com/topics/infrastructure)
+## 🔐&nbsp; [Trila Infraestrutura](https://www.ibm.com/topics/infrastructure)
 
-  - 📜&nbsp; CI/CD trail
+  - 📜&nbsp; trilha CI/CD
 
     ° [![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/2.0/)
 
@@ -120,7 +120,7 @@
 
     ° [![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](https://docs.travis-ci.com/user/tutorial/?utm_source=help-page&utm_medium=travisweb)
 
-  - ☁️&nbsp; Cloud Services trail
+  - ☁️&nbsp; Trilha Serviços em Nuvem
 
     ° [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do_v)
 
@@ -128,7 +128,7 @@
 
     ° [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/gcp/getting-started)
 
-  - 🏢&nbsp; Hosting(Deploy) trail
+  - 🏢&nbsp; trilha Hospedagem(Deploy)
 
     ° [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/docs)
 
@@ -138,7 +138,7 @@
 
     ° [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs)
 
-  - 📝&nbsp; Version Control trail
+  - 📝&nbsp; trilha Controle de Versão
 
     ° [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 
@@ -148,13 +148,13 @@
 
     ° [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/guides)
 
-  - 🚛&nbsp; Containers Management trail
+  - 🚛&nbsp; trilha Gerenciamento de Containers
 
     ° [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/get-docker/)
 
     ° [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home/)
 
-### OBS.: Git is a desktop tool we use to manage project versions on our local machine. the other tools are cloud services that allow the developer to manage projects and changes in a virtual environment
+### OBS.: Git é uma ferramenta de desktop que usamos para gerenciar versões de projetos em nossa máquina local. as outras ferramentas são serviços em nuvem que permitem ao desenvolvedor gerenciar projetos e mudanças em um ambiente virtual.
 
 ## 👨‍💻&nbsp; My Stack
 
