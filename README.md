@@ -89,6 +89,11 @@
     [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/documentation)
     [![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)](https://cassandra.apache.org/doc/latest/)
 
+  - 🔎&nbsp; ORM's
+
+    ° [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/docs/getting-started/quickstart)
+    [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/v7/)
+
 ### Database is an essential part for developing all kinds of applications. Here you can choose any of the alternatives presented, it won't have such a big impact on your coding ability (but be aware of what the market may demand).
 
 ## 🔐&nbsp; [Infrastructure Trail](https://www.ibm.com/topics/infrastructure)
@@ -163,6 +168,7 @@ On the DataBases:
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 On the Infrastructure:
 

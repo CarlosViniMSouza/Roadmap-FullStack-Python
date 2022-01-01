@@ -1,5 +1,5 @@
 git add -A
-git commit -m "Artificial Intelligence Tail in my stack -> add | fixed A.I trail position"
+git commit -m "ORMs --> add | ORM Prisma add in My Stack"
 git push
 git status
 clear
